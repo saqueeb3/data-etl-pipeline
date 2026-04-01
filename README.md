@@ -1,6 +1,6 @@
 ETL Pipeline: Star Schema
 
-<img width="1360" height="840" alt="etl_star_schema_architecture" src="https://github.com/user-attachments/assets/a64d11f5-718a-4813-a1e1-bc138ec6dabf" />
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # E-Commerce ETL Pipeline — Star Schema Edition
