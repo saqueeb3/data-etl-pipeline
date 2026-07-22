@@ -35,7 +35,4 @@ ASCII - basic English characters only"""
 
     #yeah look here
 ''' as it turns out different dataset support different encoding, by default and the most common one is UFT-8
-but ofcourse dataset i chose was not UFT-8, it was latin-1
-do i know what UFT-8 is? NO!
-do i know what latin-1 is? also NO!
-do i care? ABSOLUTELY NO!!'''
+but ofcourse dataset i chose was not UFT-8, it was latin-1 '''
